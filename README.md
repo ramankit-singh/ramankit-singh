@@ -1,1 +1,1 @@
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ramankit-singh&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/ramankit-singh&hide_border=true)
+[![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ramankit-singh&theme=github-compact&hide_border=true)](https://git.io/ramankit-singh&hide_border=true)
